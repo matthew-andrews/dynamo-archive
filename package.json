@@ -8,7 +8,7 @@
   "dependencies": {
     "aws-sdk": "2.2.x",
     "minimist": "1.1.x",
-    "sleep": "3.0.x",
+    "sleep": "erikdubbelboer/node-sleep#df8083c3a24a87dd3249a9ba9f4b9576c3fb8754",
     "dotenv": "0.4.x"
   },
   "devDependencies": {
